@@ -1,0 +1,209 @@
+{
+  "_readme": "EDIT TEXT HERE. Everything on the website that you may want to change lives in this file. Keep the quotation marks and commas; only change the words inside the quotes. Page title/meta description live in index.html.",
+
+  "site": {
+    "name": "RAWah ELHOWERIS",
+    "title": "DENTIST",
+    "email": "rawahelhoweris@gmail.com",
+    "cvFile": "assets/cv/Rawah-Elhoweris-CV.pdf"
+  },
+
+  "hero": {
+    "statement": "Patient-centred dentistry, built on more than five years of hands-on clinical experience, careful professionalism and a steady commitment to keep learning.",
+    "primaryButton": "VIEW CLINICAL CASES",
+    "secondaryButton": "DOWNLOAD CV"
+  },
+
+  "about": {
+    "heading": "About me",
+    "paragraphs": [
+      "I care as much about how a patient feels in the chair as I do about how the treatment turns out. Over more than five years I have looked after patients of all ages, across general, restorative, aesthetic and oral surgery dentistry.",
+      "Along the way I have led a dental team, worked alongside orthodontists, and learned that a clear conversation about options and aftercare is what builds the trust good care depends on.",
+      "In 2026 I completed my Licence in Dental Surgery with the Royal College of Surgeons of England and began observational placements in the UK, sharpening the way I communicate with patients here. I practise ethically, and I never stop learning."
+    ],
+    "highlightNumber": "5+",
+    "highlightLabel": "YEARS OF CLINICAL EXPERIENCE"
+  },
+
+  "experience": {
+    "heading": "Experience",
+    "intro": "From foundation rotations to leading a dental team.",
+    "items": [
+      {
+        "date": "2026",
+        "role": "Observational Dental Placements",
+        "employer": "",
+        "intro": "",
+        "highlights": [
+          "Developed communication skills with UK patients",
+          "Gained exposure to a variety of dental programmes and techniques",
+          "Worked with Exact and other dental software and techniques"
+        ]
+      },
+      {
+        "date": "Dec 2020 – Dec 2022",
+        "role": "General Dentist",
+        "employer": "Douvin Medical Center",
+        "intro": "",
+        "highlights": [
+          "Careful screening of teeth and soft tissues, with diagnostic imaging to shape precise treatment plans",
+          "Extractions, restorative care and prosthodontic solutions, including crowns and bridges",
+          "Cosmetic work including veneers and teeth whitening",
+          "Gum disease assessment and treatment, and emergency dental care at short notice",
+          "Strict infection control, confidential patient records and close collaboration with staff on quality standards"
+        ]
+      },
+      {
+        "date": "Nov 2019 – Dec 2020",
+        "role": "General Dentist",
+        "employer": "Muhaidab Dental Center",
+        "intro": "",
+        "highlights": [
+          "Root canal treatment and corrective surgery for impacted or misaligned teeth, with clear discussion of treatment plans and aftercare",
+          "Prosthodontic planning including dentures, crowns, bridges and veneers",
+          "Paediatric care for early childhood caries: pulpotomies, pulpectomies, stainless steel crowns and preventive care",
+          "Teeth whitening and periodontal prevention and treatment planning",
+          "Planning of simple orthodontic cases"
+        ]
+      },
+      {
+        "date": "Jun 2017 – Nov 2019",
+        "role": "General Dentist",
+        "employer": "Mustafa Dental Clinic",
+        "intro": "",
+        "highlights": [
+          "Painless dental procedures and emergency care, with patient comfort first",
+          "Diagnosis of oral conditions to support the early detection of serious disease",
+          "Periodontal treatment, extractions and restorative work",
+          "Crowns, bridges, dentures and root canal treatment",
+          "Led a dental team and collaborated with orthodontists during braces and complex procedures"
+        ]
+      },
+      {
+        "date": "May 2016 – May 2017",
+        "role": "Foundation Dentist",
+        "employer": "Sudan Ministry of Health",
+        "intro": "Structured rotations through:",
+        "highlights": [
+          "Oral and maxillofacial surgery",
+          "Prosthodontics and paedodontics",
+          "Conservative and restorative dentistry",
+          "Periodontology and dental public health"
+        ]
+      }
+    ]
+  },
+
+  "education": {
+    "heading": "Education",
+    "items": [
+      {
+        "featured": true,
+        "year": "2026",
+        "title": "Licence in Dental Surgery (LDS)",
+        "institution": "Royal College of Surgeons of England",
+        "highlight": "My most recent qualification, awarded by the Royal College of Surgeons of England."
+      },
+      {
+        "featured": false,
+        "year": "2009 – 2015",
+        "title": "Bachelor of Dental Surgery (BDS)",
+        "institution": "University of Khartoum, Sudan",
+        "highlight": "Where my clinical training began, before foundation rotations with the Sudan Ministry of Health."
+      }
+    ]
+  },
+
+  "registration": {
+    "heading": "Professional registration",
+    "intro": "Registered to practise with the following regulators.",
+    "items": [
+      { "name": "General Dental Council (UK)", "primary": true, "number": "" },
+      { "name": "Sudan Medical Council", "primary": false, "number": "" },
+      { "name": "Saudi Dental Council", "primary": false, "number": "" }
+    ]
+  },
+
+  "skills": {
+    "heading": "Skills",
+    "intro": "The clinical work I do, and the qualities I bring to it.",
+    "categories": [
+      {
+        "title": "Clinical & Restorative",
+        "tone": "yellow",
+        "items": ["Tooth restorations", "Root canal procedures", "Root canal treatment", "Endodontic treatments", "Crowns and bridges", "Prosthodontics", "Emergency dentistry", "Pain management", "X-ray interpretation"]
+      },
+      {
+        "title": "Aesthetic Dentistry",
+        "tone": "white",
+        "items": ["Teeth whitening", "Cosmetic composite bonding", "Crowns and veneers", "Smile makeovers", "Cosmetic dentistry"]
+      },
+      {
+        "title": "Oral Surgery",
+        "tone": "off",
+        "items": ["Oral surgery practices", "Wisdom tooth extraction", "Extractions", "Oral pathology diagnosis"]
+      },
+      {
+        "title": "Paediatric Dentistry",
+        "tone": "pale",
+        "items": ["Paediatric dentistry", "Early childhood caries management"]
+      },
+      {
+        "title": "Patient Care & Professional Skills",
+        "tone": "white",
+        "items": ["Compassionate and empathetic", "Professional demeanour", "Effective communication", "Collaborative team player", "Complaint resolution and problem solving", "Proficient in computer applications"]
+      }
+    ]
+  },
+
+  "cases": {
+    "heading": "My Clinical Cases",
+    "intro": "Twenty-one cases from my own clinical work, shown simply and without commentary. Take your time, and tap any image to see it larger.",
+    "_howToEdit": "Each case = one folder inside assets/images/cases/. 'folder' must match the folder name exactly. 'name' is the title shown on the website. 'images' lists the files in that folder in display order; add an optional 'label' (e.g. Before / After) or 'alt' text. Re-run tools/optimize_images.py after adding or replacing images.",
+    "items": [
+      { "folder": "Emax ant crowns", "name": "E.max Anterior Crowns", "images": [
+        { "file": "Emax ant crowns-befor.jpeg", "label": "Before" },
+        { "file": "Emax ant crowns.jpeg" },
+        { "file": "Emax ant crowns1.jpeg" } ] },
+      { "folder": "Whitening", "name": "Whitening", "images": [ { "file": "Whitening.jpeg" } ] },
+      { "folder": "Zirconia bridge", "name": "Zirconia Bridge", "images": [ { "file": "Zirconia bridge.jpeg" } ] },
+      { "folder": "Class 3 composite", "name": "Class III Composite", "images": [
+        { "file": "Class 3 composite.jpeg" },
+        { "file": "Class 3 composite1.jpeg" } ] },
+      { "folder": "Upper & lower zirconia bridges -fixing misaligned teeth", "name": "Upper & Lower Zirconia Bridges, Fixing Misaligned Teeth", "images": [ { "file": "Upper & lower zirconia bridges -fixing misaligned teeth.jpeg" } ] },
+      { "folder": "Case of crome coblet denture", "name": "Chrome Cobalt Denture", "images": [
+        { "file": "Case of crome coblet denture befor.jpeg", "label": "Before" },
+        { "file": "Case of crome coblet denture after.jpeg", "label": "After" },
+        { "file": "Case of crome coblet denture after 1.jpeg", "label": "After (2)" } ] },
+      { "folder": "Emax separated anterior crowns from canine to canine", "name": "Separated E.max Anterior Crowns, Canine to Canine", "images": [ { "file": "Emax separated anterior crowns from canine to canine.jpeg" } ] },
+      { "folder": "Class 4 composite case", "name": "Class IV Composite", "images": [ { "file": "Class 4 composite case.jpg" } ] },
+      { "folder": "Emax bridges anterior", "name": "Anterior E.max Bridges", "images": [ { "file": "Emax bridges anterior.jpeg" } ] },
+      { "folder": "Missalined previous pfm bridge changed to zirconia bridge", "name": "Misaligned PFM Bridge Replaced with Zirconia Bridge", "images": [ { "file": "Missalined previous pfm bridge changed to zirconia bridge.jpeg" } ] },
+      { "folder": "Class 3 cavities", "name": "Class III Cavities", "images": [ { "file": "Class 3 cavities.jpeg" } ] },
+      { "folder": "Partial denture", "name": "Partial Denture", "images": [ { "file": "Partial denture.jpeg" } ] },
+      { "folder": "Replacing a pfm to zirconia bridge", "name": "PFM Bridge Replaced with Zirconia Bridge", "images": [ { "file": "Replacing a pfm to zirconia bridge.jpg" } ] },
+      { "folder": "Class 5 cavities", "name": "Class V Cavities", "images": [ { "file": "Class 5 cavities.jpeg" } ] },
+      { "folder": "Change old composite to new", "name": "Old Composite Replaced with New", "images": [ { "file": "Change old composite to new.jpeg" } ] },
+      { "folder": "Post& core with zirconia crown on right lateral", "name": "Post & Core with Zirconia Crown on Right Lateral", "images": [ { "file": "Post& core with zirconia crown on right lateral.jpeg" } ] },
+      { "folder": "Partial bridge", "name": "Partial Bridge", "images": [ { "file": "Partial bridge.jpeg" } ] },
+      { "folder": "Zirconia bridge on 45", "name": "Zirconia Bridge on 45", "images": [ { "file": "Zirconia bridge on 45.jpeg" } ] },
+      { "folder": "Deep scalling", "name": "Deep Scaling", "images": [ { "file": "Deep scalling.jpeg" } ] },
+      { "folder": "Scall& polish", "name": "Scale & Polish", "images": [ { "file": "Scall& polish.jpeg" } ] },
+      { "folder": "Ultra sonic cleaning", "name": "Ultrasonic Cleaning", "images": [ { "file": "Ultra sonic cleaning.jpeg" } ] }
+    ]
+  },
+
+  "cv": {
+    "heading": "Curriculum Vitae",
+    "intro": "A short summary. The full CV is available to download.",
+    "profile": "Motivated dentist with over five years of clinical experience providing high-quality, patient-centred care across all age groups, with a focus on excellent clinical outcomes and patient satisfaction. Committed to ethical practice, continuous professional development and high standards of clinical excellence.",
+    "keySkills": ["Tooth restorations", "Root canal treatment", "Crowns and bridges", "Prosthodontics", "Cosmetic composite bonding", "Teeth whitening", "Wisdom tooth extraction", "Paediatric dentistry", "Emergency dentistry", "Effective communication"],
+    "button": "DOWNLOAD CV"
+  },
+
+  "contact": {
+    "heading": "Let's talk",
+    "text": "For enquiries, please get in touch by email.",
+    "button": "GET IN TOUCH"
+  }
+}
